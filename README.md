@@ -75,10 +75,3 @@ Every component in this project strictly follows the methods, libraries, and arc
 2. **Run in Android Studio**:
    - Open `c:\Users\Saint Thomas\AndroidStudioProjects\UAS` in Android Studio.
    - Let Gradle sync and click **Run ('app')** on an Android Emulator or physical device.
-
----
-
-## 4. Declaration of AI Usage (Mandatory Course Policy)
-In accordance with the academic integrity guidelines in *Project Native Mobile Programming - 1604C052 (Gasal 2026-2027)*:
-- **AI Tool Used:** Google Antigravity (AI Coding Assistant).
-- **Scope of Usage:** Used to assist in structuring the Android Studio project files, generating sample UBAYA campus event JSON/SQL seed data, creating XML layouts adhering to Material Design 3 (`themes.xml`, `colors.xml`), and implementing Kotlin classes strictly following the UBAYA NMP Weeks 1–10 lecture materials (ViewBinding, Explicit/Implicit Intents, SharedPreferences, RecyclerView + CardView, Picasso, DatePickerDialog, AlertDialog, ViewPager2 + BottomNavigationView, Volley, and GSON).
