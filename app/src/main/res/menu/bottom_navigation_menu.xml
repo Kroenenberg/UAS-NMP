@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemEvents"
+        android:icon="@drawable/ic_event"
+        android:title="@string/nav_events"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemFilter"
+        android:icon="@drawable/ic_filter"
+        android:title="@string/nav_filter"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemTickets"
+        android:icon="@drawable/ic_ticket"
+        android:title="@string/nav_tickets"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemProfile"
+        android:icon="@drawable/ic_person"
+        android:title="@string/nav_profile"
+        app:showAsAction="always" />
+</menu>

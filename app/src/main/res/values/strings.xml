@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UBAYA Campus Hub</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_filter">Filter &amp; Register</string>
+    <string name="nav_tickets">My Tickets</string>
+    <string name="nav_profile">Profile</string>
+</resources>

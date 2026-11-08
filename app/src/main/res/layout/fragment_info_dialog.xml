@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        style="@style/HeaderTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UBAYA Campus Hub" />
+
+    <TextView
+        style="@style/TextAppearance.Material3.BodyMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Final Project Native Mobile Programming (1604C052) - Gasal 2026/2027.\n\nFeatures included:\n- Volley REST API + GSON + JSONObject\n- RecyclerView + CardView + Picasso\n- Multi-Activity + SharedPreferences\n- ViewPager2 + BottomNavigationView\n- Form Controls (Spinner, RadioButton, CheckBox, DatePickerDialog, EditText, Button)\n- Implicit Intents (Share, Dial, Maps, Email)\n- Material Design 3 Light &amp; Dark Theme" />
+
+    <Button
+        android:id="@+id/btnCloseDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Close" />
+
+</LinearLayout>
